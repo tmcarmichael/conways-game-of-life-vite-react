@@ -7,7 +7,7 @@ This is a simple and efficient implementation of Conway's Game of Life using Rea
 ## Quick Start Instructions
 
 1. Clone the repository: `git clone https://github.com/tmcarmichael/conways-game-of-life-vite-react.git`
-2. Change to the project directory: `cd  conways-game-of-life-vite-react`
+2. Change to the project directory: `cd conways-game-of-life-vite-react`
 3. Install dependencies: `npm install` or `yarn`
 4. If you don't have Vite installed, install it globally: `npm install -g create-vite` or `yarn global add create-vite`
 5. Start the development server: `npm run dev` or `yarn dev`
