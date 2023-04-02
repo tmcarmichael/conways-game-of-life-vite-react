@@ -12,7 +12,9 @@ This is a simple and efficient implementation of Conway's Game of Life using Rea
 4. Start the development server: `npm run dev` or `yarn dev`
 5. Open your browser and navigate to `http://localhost:5173` or where your CLI directs you
 6. Click some cells, they will change color, then click start too see the Conway's Game of Life iteration.
-7. You can start with a simple [Figure Eight](https://conwaylife.com/wiki/Figure_eight) that repeats.
+7. You can start with a simple [Figure Eight](https://conwaylife.com/wiki/Figure_eight) that repeats, shown below.
+
+<img src="src/assets/ConwayGameOfLifeFigure8.png" width="20%" height="35%" />
 
 ## Conway's Game of Life
 
