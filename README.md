@@ -1,4 +1,4 @@
-# Conway's Game of Life React Vite Application
+# Conway's Game of Life with React/Vite build
 
 ## Overview
 
