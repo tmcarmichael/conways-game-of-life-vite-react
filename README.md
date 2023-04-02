@@ -15,7 +15,10 @@ This is a simple and efficient implementation of Conway's Game of Life using Rea
 
 Next, with the web app running, click some cells, they will change color, then click start too see the Conway's Game of Life iteration. You can start with a simple [Figure Eight](https://conwaylife.com/wiki/Figure_eight) that repeats, shown below.
 
-<img src="src/assets/ConwayGameOfLifeFigure8.png" width="40%" height="70%" />
+<p align="center">
+  <img src="src/assets/ConwayGameOfLifeFigure8.png" alt="Conway's Game of Life Figure Eight">
+</p>
+
 
 ## Conway's Game of Life
 
