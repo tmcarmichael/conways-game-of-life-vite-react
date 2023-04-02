@@ -6,15 +6,16 @@ This is a simple and efficient implementation of Conway's Game of Life using Rea
 
 ## Quick Start Instructions
 
-1. Clone the repository: `git clone https://github.com/your_username/game-of-life.git`
-2. Change to the project directory: `cd game-of-life`
+1. Clone the repository: `git clone https://github.com/tmcarmichael/conways-game-of-life-vite-react.git`
+2. Change to the project directory: `cd  conways-game-of-life-vite-react`
 3. Install dependencies: `npm install` or `yarn`
-4. Start the development server: `npm run dev` or `yarn dev`
-5. Open your browser and navigate to `http://localhost:5173` or where your CLI directs you
-6. Click some cells, they will change color, then click start too see the Conway's Game of Life iteration.
-7. You can start with a simple [Figure Eight](https://conwaylife.com/wiki/Figure_eight) that repeats, shown below.
+4. If you don't have Vite installed, install it globally: `npm install -g create-vite` or `yarn global add create-vite`
+5. Start the development server: `npm run dev` or `yarn dev`
+6. Open your browser and navigate to `http://localhost:5173` or the port your CLI directs you to.
 
-<img src="src/assets/ConwayGameOfLifeFigure8.png" width="20%" height="35%" />
+Next, with the web app running, click some cells, they will change color, then click start too see the Conway's Game of Life iteration. You can start with a simple [Figure Eight](https://conwaylife.com/wiki/Figure_eight) that repeats, shown below.
+
+<img src="src/assets/ConwayGameOfLifeFigure8.png" width="40%" height="70%" />
 
 ## Conway's Game of Life
 
