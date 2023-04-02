@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple and efficient implementation of Conway's Game of Life using React and Vite. The application demonstrates how to build a performant Game of Life simulation with React and Vite build tools. Users can interact with the game grid, control the simulation, and reset the grid.
+This is a simple and efficient implementation of Conway's Game of Life using React and a Vite build. Users can interact with the game grid, control the CGOL simulation, and reset the grid.
 
 ## Quick Start Instructions
 
@@ -18,7 +18,6 @@ Next, with the web app running, click some cells, they will change color, then c
 <p align="center">
   <img src="src/assets/ConwayGameOfLifeFigure8.png" alt="Conway's Game of Life Figure Eight" width="50%" height="50%">
 </p>
-
 
 ## Conway's Game of Life
 
